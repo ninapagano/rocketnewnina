@@ -37,7 +37,7 @@ ready(() => {
   function init(){
 
       CustomWiggle.create("myWiggle", {wiggles: 50, type:"uniform"});
-    ***********  fadeInTL init ****************
+    //***********  fadeInTL init ****************//
       gsap.set("#Layer_12", { y:"+=200", delay:2});
 
       gsap.to("#Layer_12", {duration:1, y:"1400", ease:"myWiggle"});

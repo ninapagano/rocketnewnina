@@ -9,14 +9,6 @@
 	],
 "creatorBuild": "32186",
 "files": {
-	"/.gitattributes": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/.gitattributes",
-		"oF": 0
-		},
 	"/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -269,18 +261,10 @@
 		"oS": 0,
 		"sct": 0
 		},
-	"/gsap-bonus.tgz": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/gsap-bonus.tgz",
-		"oF": 0
-		},
 	"/node_modules": {
 		"ft": 65536,
 		"oA": 2,
-		"oAP": "/node_modules",
+		"oAP": "/build/node_modules",
 		"oF": 0
 		},
 	"/node_modules/gsap/CSSPlugin.js": {
@@ -315,41 +299,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"/package-lock.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/package-lock-min.json",
-		"oF": 0,
-		"oO": 1,
-		"oS": 1
-		},
-	"/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/package-min.json",
-		"oF": 0,
-		"oO": 1,
-		"oS": 1
-		},
-	"/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		}
 	},
 "hooks": [
@@ -358,7 +307,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 640184504.22365296,
-	"displayValue": "Motion-GSAP-Rocket-nina",
+	"displayValue": "rocketnewnina",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ron",
 	"iconImageWasSetByUser": 1
